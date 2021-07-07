@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>FormattingSample</name>
+    </assembly>
+    <members>
+        <member name="T:FormattingSample.Program">
+            <summary>
+            The command-line interface for FormattingSample.
+            </summary>
+        </member>
+        <member name="M:FormattingSample.Program.Main(System.String[])">
+            <summary>
+            The entry point of the application.
+            </summary>
+            <param name="args">The list of command-line parameters.</param>
+        </member>
+    </members>
+</doc>
