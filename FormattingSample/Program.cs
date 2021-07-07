@@ -6,7 +6,7 @@ namespace FormattingSample
 {
     using System;
 
-/// <summary>
+    /// <summary>
     /// The command-line interface for FormattingSample.
     /// </summary>
     internal static class Program

@@ -15,5 +15,21 @@
             </summary>
             <param name="args">The list of command-line parameters.</param>
         </member>
+        <member name="T:FormattingSample.SampleClass">
+            <summary>
+            Provides a sample code for formatting capabilities of the editor.
+            </summary>
+        </member>
+        <member name="M:FormattingSample.SampleClass.#ctor">
+            <summary>
+            Initializes a new instance of the <see cref="T:FormattingSample.SampleClass"/> class.
+            </summary>
+        </member>
+        <member name="M:FormattingSample.SampleClass.SampleMethod">
+            <summary>
+            A sample method that returns a task.
+            </summary>
+            <returns>An instance of the task.</returns>
+        </member>
     </members>
 </doc>
